@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Turkey",
+    "image": "https://i.ibb.co/YPPHhsL/destinaion-turkey-720x560.jpg",
+    "description": "Explore the rich history and vibrant culture of Turkey.",
+    "temperature": "22°C",
+    "price": "$1000",
+    "rating": 4.7,
+    "best_time_to_visit": "April to October",
+    "activities": ["Historical tours", "Beach activities", "Shopping"]
+  },
+  {
+    "id": 2,
+    "title": "Italy",
+    "image": "https://i.ibb.co/PtD9gz7/destination-italy-720x560.jpg",
+    "description": "Discover the beautiful landscapes and historic cities of Italy.",
+    "temperature": "25°C",
+    "price": "$1200",
+    "rating": 4.8,
+    "best_time_to_visit": "April to June and September to October",
+    "activities": ["Sightseeing", "Food tours", "Historical tours"]
+  },
+  {
+    "id": 3,
+    "title": "Maldives",
+    "image": "https://i.ibb.co/G5rkbN9/destination-maldives-720x560.jpg",
+    "description": "Enjoy the pristine beaches and crystal-clear waters of the Maldives.",
+    "temperature": "30°C",
+    "price": "$2000",
+    "rating": 4.9,
+    "best_time_to_visit": "November to April",
+    "activities": ["Snorkeling", "Beach relaxation", "Island hopping"]
+  },
+  {
+    "id": 4,
+    "title": "Rio de Janeiro",
+    "image": "https://i.ibb.co/Z6xzX4S/destination-rio-720x560.jpg",
+    "description": "Experience the lively culture and stunning beaches of Rio de Janeiro.",
+    "temperature": "28°C",
+    "price": "$1500",
+    "rating": 4.6,
+    "best_time_to_visit": "December to March",
+    "activities": ["Carnival celebrations", "Beach activities", "Hiking"]
+  },
+  {
+    "id": 5,
+    "title": "Singapore",
+    "image": "https://i.ibb.co/fr2440Q/destination-singapore-720x560.jpg",
+    "description": "Explore the modern cityscape and diverse culture of Singapore.",
+    "temperature": "26°C",
+    "price": "$1100",
+    "rating": 4.7,
+    "best_time_to_visit": "February to April",
+    "activities": ["City tours", "Shopping", "Cultural experiences"]
+  },
+  {
+    "id": 6,
+    "title": "UAE",
+    "image": "https://i.ibb.co/DYwpKXV/destination-uae-720x560.jpg",
+    "description": "Discover the luxurious lifestyle and deserts of the UAE.",
+    "temperature": "35°C",
+    "price": "$1800",
+    "rating": 4.8,
+    "best_time_to_visit": "November to March",
+    "activities": ["Desert safaris", "Luxury shopping", "Cultural tours"]
+  },
+  {
+    "id": 7,
+    "title": "United Kingdom",
+    "image": "https://i.ibb.co/zFrgMjC/destination-uk-720x560.jpg",
+    "description": "Experience the historical sites and vibrant cities of the UK.",
+    "temperature": "15°C",
+    "price": "$1300",
+    "rating": 4.5,
+    "best_time_to_visit": "March to June and September to November",
+    "activities": ["Historical tours", "Museum visits", "City sightseeing"]
+  },
+  {
+    "id": 8,
+    "title": "Sydney",
+    "image": "https://i.ibb.co/qxcM2nK/sydney-1-720x560.jpg",
+    "description": "Enjoy the iconic landmarks and beautiful beaches of Sydney.",
+    "temperature": "20°C",
+    "price": "$1400",
+    "rating": 4.7,
+    "best_time_to_visit": "September to November and March to May",
+    "activities": ["Beach activities", "City tours", "Wildlife experiences"]
+  }
+]

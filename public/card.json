@@ -1,0 +1,64 @@
+[
+  {
+    "id": 5,
+    "title": "Venice",
+    "rating": 4.8,
+    "description": "Explore the romantic canals of Venice, with its historic architecture and charming gondola rides.",
+    "price": 160,
+    "duration": 7,
+    "category": "Romantic",
+    "image": "https://i.ibb.co/QJPVYLK/venice-featured-720x560.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Cappadocia",
+    "rating": 4.7,
+    "description": "Explore the stunning landscapes of Cappadocia with its unique rock formations and hot air balloon rides.",
+    "price": 150,
+    "duration": 4,
+    "category": "Adventure",
+    "image": "https://i.ibb.co/9YkgNy5/cappadocia-featured.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Dubai",
+    "rating": 4.8,
+    "description": "Experience the luxury and modernity of Dubai, including iconic landmarks like the Burj Khalifa and extravagant shopping malls.",
+    "price": 200,
+    "duration": 6,
+    "category": "Luxury",
+    "image": "https://i.ibb.co/zWdjmsK/dubai-featured-720x560.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Maldives",
+    "rating": 4.9,
+    "description": "Relax on the pristine beaches of the Maldives with crystal-clear waters and luxurious overwater bungalows.",
+    "price": 300,
+
+    "duration": 2,
+
+    "category": "Beach",
+    "image": "https://i.ibb.co/wKjbxMC/maldives-featured-720x560.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Sydney",
+    "rating": 4.6,
+    "description": "Discover Sydney's vibrant culture, beautiful harbor, and famous landmarks such as the Sydney Opera House and Harbour Bridge.",
+    "price": 180,
+    "duration": 8,
+    "category": "City",
+    "image": "https://i.ibb.co/Nn6268q/sydney-featured.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Venice",
+    "rating": 4.8,
+    "description": "Explore the romantic canals of Venice, with its historic architecture and charming gondola rides.",
+    "price": 160,
+    "duration": 10,
+    "category": "Romantic",
+    "image": "https://i.ibb.co/QJPVYLK/venice-featured-720x560.jpg"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/JdgTCsM/cappadocia-featured-526x406.jpg",
+    "title": "Cappadocia",
+    "rating": 4.7,
+    "price": "$120",
+    "duration": 7,
+    "description": "Experience the stunning landscapes and unique rock formations of Cappadocia."
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/D1Wd5qr/dubai-featured-526x406.jpg",
+    "title": "Dubai",
+    "rating": 4.9,
+    "price": "$250",
+    "description": "Explore the luxury and modernity of Dubai, with its iconic landmarks and vibrant nightlife."
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/pd5TXtY/istanbul-featured-526x406.jpg",
+    "title": "Istanbul",
+    "rating": 4.8,
+    "price": "$90",
+    "duration": 7,
+    "description": "Discover the rich history and cultural heritage of Istanbul, where East meets West."
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/dBxmNbv/london-featured-526x406.jpg",
+    "title": "London",
+    "rating": 4.6,
+    "duration": 7,
+    "price": "$200",
+    "description": "Enjoy the vibrant city life and historic landmarks of London, from the Tower of London to Buckingham Palace."
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/GHRJQZw/rio-featured-526x406.jpg",
+    "title": "Rio de Janeiro",
+    "rating": 4.8,
+    "duration": 7,
+    "price": "$150",
+    "description": "Relax on the beautiful beaches of Rio de Janeiro and experience the lively Carnival atmosphere."
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/ZSX9TBm/singapore-featured-526x406.jpg",
+    "title": "Singapore",
+    "rating": 4.9,
+    "price": "$180",
+    "duration": 7,
+    "description": "Explore the futuristic skyline and diverse culture of Singapore, with its iconic Gardens by the Bay and Marina Bay Sands."
+  }
+]
